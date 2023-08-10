@@ -1,0 +1,28 @@
+# Arquivos gerados pelo Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+packages/
+*.dbmdl
+*.jfm
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de configuração
+*.suo
+*.config.user
+*.[Dd]ebug*
+*.[Rr]elease*
+[Dd]ebug/
+[Rr]elease/
+nuget.exe
+nuget/
+*.visualstudio.com/
+.vscode/
+*.userprefs
+*.sln.ide
+.vspscc
+*.scc
